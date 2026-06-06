@@ -14,5 +14,13 @@
     "mainCategory": "smartphone",
     "subCategory": "5g",
     "thumbnail": ""
+  },
+  {
+    "id": "asus_tuf_a16_i",
+    "name": "Asus TUF a16 Intel",
+    "price": 305990.0,
+    "mainCategory": "computers",
+    "subCategory": "laptops",
+    "thumbnail": "asus_tuf_a16_i_images_01.webp"
   }
 ]
