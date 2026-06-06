@@ -1,0 +1,38 @@
+[
+  {
+    "id": "lap_asus_tuf_01",
+    "category": "laptops",
+    "tier": "budget",
+    "brand": "Asus",
+    "title": "Asus TUF F15 Gaming Laptop",
+    "price": 60000,
+    "image_urls": [
+      "https://cdn.jsdelivr.net/gh/devabhisheksoni/techfinder_database@main/images/lap_asus_tuf_01_0.webp"
+    ],
+    "affiliate_link": "https://amzn.to/3xyz123",
+    "specs": {
+      "Processor": "Core i5 11th Gen",
+      "RAM": "16GB DDR4",
+      "Storage": "512GB SSD",
+      "Graphics": "GTX 1650"
+    }
+  },
+  {
+    "id": "wm_lg_7kg_02",
+    "category": "appliances",
+    "tier": "premium",
+    "brand": "LG",
+    "title": "LG 7Kg 5 Star Inverter Washing Machine",
+    "price": 30000,
+    "image_urls": [
+      "https://cdn.jsdelivr.net/gh/devabhisheksoni/techfinder_database@main/images/wm_lg_7kg_02_0.webp"
+    ],
+    "affiliate_link": "https://amzn.to/3abc456",
+    "specs": {
+      "Capacity": "7 Kg",
+      "Function": "Fully Automatic",
+      "Loading": "Front Load",
+      "Inverter": "Yes"
+    }
+  }
+]

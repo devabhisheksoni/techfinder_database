@@ -1,0 +1,44 @@
+[
+  {
+    "id": "computers",
+    "name": "Computers",
+    "parentId": null,
+    "tier": 1,
+    "image": null
+  },
+  {
+    "id": "laptops",
+    "name": "Laptops",
+    "parentId": "computers",
+    "tier": 2,
+    "image": null
+  },
+  {
+    "id": "intel_laptops",
+    "name": "Intel loptops",
+    "parentId": "laptops",
+    "tier": 3,
+    "image": null
+  },
+  {
+    "id": "washing_maschine",
+    "name": "Washing maschine",
+    "parentId": null,
+    "tier": 1,
+    "image": null
+  },
+  {
+    "id": "smartphone",
+    "name": "Smartphone",
+    "parentId": null,
+    "tier": 1,
+    "image": null
+  },
+  {
+    "id": "5g",
+    "name": "5G",
+    "parentId": "smartphone",
+    "tier": 2,
+    "image": null
+  }
+]

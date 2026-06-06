@@ -1,0 +1,46 @@
+{
+  "id": "samsung_m17_5g",
+  "name": "Samsung M17 5G",
+  "description": "",
+  "dateAdded": "2026-06-04T22:45:42.763431",
+  "sku": null,
+  "price": 16499.0,
+  "discountPrice": null,
+  "stock": 5,
+  "isFeatured": false,
+  "mainCategory": "smartphone",
+  "subCategory": "5g",
+  "subSubCategory": null,
+  "subSubSubCategory": null,
+  "brand": null,
+  "subBrand": null,
+  "series": null,
+  "subSeries": null,
+  "productType": null,
+  "searchTags": [
+    "samsung",
+    "m15",
+    "5g",
+    "m series"
+  ],
+  "productTag": null,
+  "images": [],
+  "videos": [],
+  "svgs": [],
+  "specifications": {
+    "battery": "5000 mAh",
+    "RAM": "6 GB",
+    "Storage": "128 GB"
+  },
+  "processor": null,
+  "ram": null,
+  "rom": null,
+  "displayType": null,
+  "graphicsCard": null,
+  "colors": [
+    "Silver",
+    "Blue"
+  ],
+  "warranty": "1 Year",
+  "faqs": []
+}

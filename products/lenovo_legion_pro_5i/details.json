@@ -1,0 +1,16 @@
+{
+  "id": "lenovo_legion_pro_5i",
+  "name": "Lenovo Legion Pro 5 intel",
+  "description": "good",
+  "price": 220000.0,
+  "stock": 5,
+  "mainCategory": "computers",
+  "subCategory": "laptops",
+  "subSubCategory": "intel_laptops",
+  "images": [
+    "lenovo_legion_pro_5i_images_03.webp"
+  ],
+  "videos": [],
+  "svgs": [],
+  "faqs": []
+}

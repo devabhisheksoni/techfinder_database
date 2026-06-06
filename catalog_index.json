@@ -1,0 +1,18 @@
+[
+  {
+    "id": "lenovo_legion_pro_5i",
+    "name": "Lenovo Legion Pro 5 intel",
+    "price": 220000.0,
+    "mainCategory": "computers",
+    "subCategory": "laptops",
+    "thumbnail": "lenovo_legion_pro_5i_images_03.webp"
+  },
+  {
+    "id": "samsung_m17_5g",
+    "name": "Samsung M17 5G",
+    "price": 16499.0,
+    "mainCategory": "smartphone",
+    "subCategory": "5g",
+    "thumbnail": ""
+  }
+]
