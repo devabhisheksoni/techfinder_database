@@ -1,0 +1,44 @@
+{
+  "id": "asus_tuf_a16_i",
+  "name": "Asus TUF a16 Intel",
+  "description": "",
+  "dateAdded": "2026-06-06T18:57:15.773777",
+  "sku": null,
+  "price": 305990.0,
+  "discountPrice": 189990.0,
+  "stock": 5,
+  "isFeatured": false,
+  "mainCategory": "computers",
+  "subCategory": "laptops",
+  "subSubCategory": "intel_laptops",
+  "subSubSubCategory": null,
+  "brand": "Asus",
+  "subBrand": null,
+  "series": null,
+  "subSeries": null,
+  "productType": null,
+  "searchTags": [
+    "asus",
+    "gaming",
+    "tuf",
+    "asus tuf"
+  ],
+  "productTag": null,
+  "images": [
+    "asus_tuf_a16_i_images_01.webp"
+  ],
+  "videos": [],
+  "svgs": [],
+  "specifications": null,
+  "processor": null,
+  "ram": null,
+  "rom": null,
+  "displayType": null,
+  "graphicsCard": null,
+  "colors": [
+    "Jaeger Gray",
+    "gray"
+  ],
+  "warranty": "1 year",
+  "faqs": []
+}
