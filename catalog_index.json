@@ -43,7 +43,12 @@
     "stock": 5,
     "mainCategory": "audio",
     "subCategory": "neckband",
-    "images": [],
-    "thumbnail": ""
+    "images": [
+      "realme_buds_wireless_5_ANC_images_01.webp",
+      "realme_buds_wireless_5_ANC_images_02.webp",
+      "realme_buds_wireless_5_ANC_images_03.webp",
+      "realme_buds_wireless_5_ANC_images_04.webp"
+    ],
+    "thumbnail": "realme_buds_wireless_5_ANC_images_01.webp"
   }
 ]
