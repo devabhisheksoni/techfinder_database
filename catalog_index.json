@@ -2,9 +2,19 @@
   {
     "id": "lenovo_legion_pro_5i",
     "name": "Lenovo Legion Pro 5 intel",
+    "brand": "Lenovo Legion",
     "price": 258190.0,
+    "discountPrice": 220990.0,
+    "stock": 5,
     "mainCategory": "computers",
     "subCategory": "laptops",
+    "images": [
+      "lenovo_legion_pro_5i_images_03.webp",
+      "lenovo_legion_pro_5i_images_01.jpeg",
+      "lenovo_legion_pro_5i_images_02.jpeg",
+      "lenovo_legion_pro_5i_images_03.jpeg",
+      "lenovo_legion_pro_5i_images_04.jpeg"
+    ],
     "thumbnail": "lenovo_legion_pro_5i_images_03.webp"
   },
   {
