@@ -33,5 +33,17 @@
     "mainCategory": "computers",
     "subCategory": "laptops",
     "thumbnail": "asus_tuf_a16_i_images_01.webp"
+  },
+  {
+    "id": "realme_buds_wireless_5_ANC",
+    "name": "realme Buds Wireless 5 ANC",
+    "brand": null,
+    "price": 2799.0,
+    "discountPrice": 1999.0,
+    "stock": 5,
+    "mainCategory": "audio",
+    "subCategory": "neckband",
+    "images": [],
+    "thumbnail": ""
   }
 ]
