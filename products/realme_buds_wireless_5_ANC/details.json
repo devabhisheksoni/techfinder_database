@@ -19,7 +19,12 @@
   "productType": null,
   "searchTags": [],
   "productTag": null,
-  "images": [],
+  "images": [
+    "realme_buds_wireless_5_ANC_images_01.webp",
+    "realme_buds_wireless_5_ANC_images_02.webp",
+    "realme_buds_wireless_5_ANC_images_03.webp",
+    "realme_buds_wireless_5_ANC_images_04.webp"
+  ],
   "videos": [],
   "svgs": [],
   "specifications": null,
