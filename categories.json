@@ -40,5 +40,47 @@
     "parentId": "smartphone",
     "tier": 2,
     "image": null
+  },
+  {
+    "id": "audio",
+    "name": "Audio",
+    "parentId": null,
+    "tier": 1,
+    "image": null
+  },
+  {
+    "id": "anc",
+    "name": "ANC",
+    "parentId": "audio",
+    "tier": 2,
+    "image": null
+  },
+  {
+    "id": "airpods",
+    "name": "Airpods",
+    "parentId": "audio",
+    "tier": 2,
+    "image": null
+  },
+  {
+    "id": "headphone",
+    "name": "Headphone",
+    "parentId": "audio",
+    "tier": 2,
+    "image": null
+  },
+  {
+    "id": "neckband",
+    "name": "Neckband",
+    "parentId": "audio",
+    "tier": 2,
+    "image": null
+  },
+  {
+    "id": "wired",
+    "name": "Wired",
+    "parentId": "audio",
+    "tier": 2,
+    "image": null
   }
 ]
