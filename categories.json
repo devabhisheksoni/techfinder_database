@@ -4,7 +4,7 @@
     "name": "Computers",
     "parentId": null,
     "tier": 1,
-    "image": null
+    "image": "computers_icon.jpg"
   },
   {
     "id": "laptops",
